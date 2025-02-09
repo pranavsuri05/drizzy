@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <b><span style="color: yellow;">DRIZZY - Driving Made Easy</span></b>
-</p>
+</h1>
 
 Drizzy is a startup transforming driving education by offering personalised training options, a safety-first approach, flexible scheduling, and
 an intuitive app-based system. Their mission is to make learning to drive easy and accessible for everyone.
