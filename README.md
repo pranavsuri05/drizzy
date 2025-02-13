@@ -10,7 +10,7 @@ platforms.
 
 <h1> Y'all can check out the website online 👇 </h1>
 <h2 align="center">
-  <a href=" https://www.drizzy.in/ ">CLICK ME</a>
+  <a href="https://www.drizzy.in/">CLICK ME</a>
 </h2>
 
 
